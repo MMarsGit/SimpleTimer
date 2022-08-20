@@ -7,3 +7,6 @@ sql database.
 ## Libraries and Modules involved
 PyQt - Used to make the GUI. <br>
 DateTime - Used to recieve the start time and current time.
+
+## Example Images
+![](Images/TimerApp.png)
